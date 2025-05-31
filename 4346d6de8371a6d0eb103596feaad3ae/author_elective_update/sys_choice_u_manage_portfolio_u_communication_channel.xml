@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_communication_channel" table="u_manage_portfolio" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_communication_channel</element>
+            <name>u_manage_portfolio</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 08:42:20</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_communication_channel</sys_name>
+            <sys_package display_value="Manage Portfolio" source="4346d6de8371a6d0eb103596feaad3ae">4346d6de8371a6d0eb103596feaad3ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Manage Portfolio">4346d6de8371a6d0eb103596feaad3ae</sys_scope>
+            <sys_update_name>sys_choice_u_manage_portfolio_u_communication_channel</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 08:42:20</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_communication_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Email address</label>
+            <language>en</language>
+            <name>u_manage_portfolio</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 08:42:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 08:42:20</sys_updated_on>
+            <value>Email address</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_communication_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>web messaging/Live chat</label>
+            <language>en</language>
+            <name>u_manage_portfolio</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 08:42:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 08:42:20</sys_updated_on>
+            <value>web messaging/Live chat</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_communication_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sms messaging/text</label>
+            <language>en</language>
+            <name>u_manage_portfolio</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 08:42:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 08:42:20</sys_updated_on>
+            <value>Sms messaging/text</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_communication_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Socialmedia listening/engagement tools</label>
+            <language>en</language>
+            <name>u_manage_portfolio</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 08:42:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 08:42:20</sys_updated_on>
+            <value>Socialmedia listening/engagement tools</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_communication_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>chatbots/voicebots</label>
+            <language>en</language>
+            <name>u_manage_portfolio</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 08:42:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 08:42:20</sys_updated_on>
+            <value>chatbots/voicebots</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_communication_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>predictive engagement</label>
+            <language>en</language>
+            <name>u_manage_portfolio</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 08:42:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 08:42:20</sys_updated_on>
+            <value>predictive engagement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_communication_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Co-browse/screen share</label>
+            <language>en</language>
+            <name>u_manage_portfolio</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 08:42:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 08:42:20</sys_updated_on>
+            <value>Co-browse/screen share</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_communication_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>knowledge base creation tools</label>
+            <language>en</language>
+            <name>u_manage_portfolio</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 08:42:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 08:42:20</sys_updated_on>
+            <value>knowledge base creation tools</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_communication_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>unified agent workspace/service console</label>
+            <language>en</language>
+            <name>u_manage_portfolio</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 08:42:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 08:42:20</sys_updated_on>
+            <value>unified agent workspace/service console</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_communication_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>workflow automations</label>
+            <language>en</language>
+            <name>u_manage_portfolio</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 08:42:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 08:42:20</sys_updated_on>
+            <value>workflow automations</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_communication_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reporting and analytics</label>
+            <language>en</language>
+            <name>u_manage_portfolio</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 08:42:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 08:42:20</sys_updated_on>
+            <value>Reporting and analytics</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_domain" table="u_manage_portfolio" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_domain</element>
+            <name>u_manage_portfolio</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 07:31:27</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_domain</sys_name>
+            <sys_package display_value="Manage Portfolio" source="4346d6de8371a6d0eb103596feaad3ae">4346d6de8371a6d0eb103596feaad3ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Manage Portfolio">4346d6de8371a6d0eb103596feaad3ae</sys_scope>
+            <sys_update_name>sys_choice_u_manage_portfolio_u_domain</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 07:31:27</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_domain</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Foundation</label>
+            <language>en</language>
+            <name>u_manage_portfolio</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 07:31:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 07:31:27</sys_updated_on>
+            <value>Foundation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_domain</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Design</label>
+            <language>en</language>
+            <name>u_manage_portfolio</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 07:31:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 07:31:27</sys_updated_on>
+            <value>Design</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_domain</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Build</label>
+            <language>en</language>
+            <name>u_manage_portfolio</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 07:31:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 07:31:27</sys_updated_on>
+            <value>Build</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_domain</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manage Technical Service</label>
+            <language>en</language>
+            <name>u_manage_portfolio</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 07:31:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 07:31:27</sys_updated_on>
+            <value>Manage Technical Service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_domain</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Self/consume</label>
+            <language>en</language>
+            <name>u_manage_portfolio</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 07:31:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 07:31:27</sys_updated_on>
+            <value>Self/consume</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
