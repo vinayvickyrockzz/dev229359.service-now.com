@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fee69e1683b1a6d0eb103596feaad394" label="Manage Portfolio" max_length="40" name="u_manage_portfolio" type="collection">
+        <element label="Business Application" max_length="255" name="u_business_application" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="u_number" type="string"/>
+        <element label="Service Portfolio" max_length="255" name="u_service_portfolio" type="string"/>
+        <element label="Business Service" max_length="255" name="u_business_service" type="string"/>
+        <element label="Dynamic CI group" max_length="255" name="u_dynamic_ci_group" type="string"/>
+        <element label="Technical Service" max_length="255" name="u_technical_service" type="string"/>
+        <element label="Products(models)" max_length="255" name="u_products_models" type="string"/>
+        <element label="Technical Service offering" max_length="255" name="u_technical_service_offering" type="string"/>
+        <element label="Business Service Offering" max_length="255" name="u_business_service_offering" type="string"/>
+        <element choice="1" label="Appliaction Service" max_length="40" name="u_appliaction_service" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Server" sequence="1" value="Server"/>
+                <element inactive_on_update="false" label="Application" sequence="0" value="Application"/>
+                <element inactive_on_update="false" label="IOT" sequence="2" value="IOT"/>
+                <element inactive_on_update="false" label="Network Gear" sequence="3" value="Network Gear"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Company Business" max_length="255" name="u_company_business" type="string"/>
+        <element label="Information Object" max_length="255" name="u_information_object" type="string"/>
+        <element label="SDLC Components(Teams)" max_length="32" name="u_sdlc_components_teams" reference="sys_user_group" type="reference"/>
+        <element label="life Cycle" max_length="255" name="u_life_cycle" type="string"/>
+        <element label="Request Catalog Item" max_length="255" name="u_request_catalog_item" type="string"/>
+        <element label="Cmdb group" max_length="32" name="u_cmdb_group" reference="cmdb_multisource_deny_class" type="reference"/>
+        <element label="Business capability" max_length="255" name="u_business_capability" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Domain" max_length="40" name="u_domain" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Design" sequence="1" value="Design"/>
+                <element inactive_on_update="false" label="Foundation" sequence="0" value="Foundation"/>
+                <element inactive_on_update="false" label="Build" sequence="2" value="Build"/>
+                <element inactive_on_update="false" label="Manage Technical Service" sequence="3" value="Manage Technical Service"/>
+                <element inactive_on_update="false" label="Self/consume" sequence="4" value="Self/consume"/>
+            </choice>
+        </element>
+        <element label="Contracts" max_length="255" name="u_contracts" type="string"/>
+        <element label="Business Process" max_length="255" name="u_business_process" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index2">
+            <element name="u_cmdb_group"/>
+        </index>
+        <index name="index3">
+            <element name="u_sdlc_components_teams"/>
+        </index>
+    </element>
+</database>

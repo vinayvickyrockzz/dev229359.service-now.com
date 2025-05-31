@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="5749da1a83b1a6d0eb103596feaad32e" sys_domain="global" table="u_manage_portfolio" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 07:36:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f349da1a83b1a6d0eb103596feaad332</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="u_manage_portfolio" name="u_manage_portfolio" sys_domain="global" view="Default view">5749da1a83b1a6d0eb103596feaad32e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="u_manage_portfolio" sys_domain="global" view="Default view">97e756d283b1a6d0eb103596feaad385</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 07:36:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 07:36:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3349da1a83b1a6d0eb103596feaad333</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="u_manage_portfolio" name="u_manage_portfolio" sys_domain="global" view="Default view">5749da1a83b1a6d0eb103596feaad32e</sys_ui_form>
+            <sys_ui_section caption="Foundation " display_value="Foundation " name="u_manage_portfolio" sys_domain="global" view="Default view">9b49da1a83b1a6d0eb103596feaad32d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 07:36:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 07:42:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61ba92da83b1a6d0eb103596feaad396</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="u_manage_portfolio" name="u_manage_portfolio" sys_domain="global" view="Default view">5749da1a83b1a6d0eb103596feaad32e</sys_ui_form>
+            <sys_ui_section caption="Design " display_value="Design " name="u_manage_portfolio" sys_domain="global" view="Default view">e5ba92da83b1a6d0eb103596feaad393</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 07:42:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 07:44:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d4bdeda83b1a6d0eb103596feaad375</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="u_manage_portfolio" name="u_manage_portfolio" sys_domain="global" view="Default view">5749da1a83b1a6d0eb103596feaad32e</sys_ui_form>
+            <sys_ui_section caption="Build " display_value="Build " name="u_manage_portfolio" sys_domain="global" view="Default view">654bdeda83b1a6d0eb103596feaad373</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 08:10:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 07:51:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5fc5a9e83b1a6d0eb103596feaad3d4</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="u_manage_portfolio" name="u_manage_portfolio" sys_domain="global" view="Default view">5749da1a83b1a6d0eb103596feaad32e</sys_ui_form>
+            <sys_ui_section caption="Manage Technical Service" display_value="Manage Technical Service" name="u_manage_portfolio" sys_domain="global" view="Default view">e5fc5a9e83b1a6d0eb103596feaad3d0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 08:10:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 07:51:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>71fc5a9e83b1a6d0eb103596feaad3fe</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="u_manage_portfolio" name="u_manage_portfolio" sys_domain="global" view="Default view">5749da1a83b1a6d0eb103596feaad32e</sys_ui_form>
+            <sys_ui_section caption="Sell/Consume" display_value="Sell/Consume" name="u_manage_portfolio" sys_domain="global" view="Default view">25fc5a9e83b1a6d0eb103596feaad3d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 08:10:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>u_manage_portfolio</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-31 07:35:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5749da1a83b1a6d0eb103596feaad32e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_manage_portfolio</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Manage Portfolio" source="4346d6de8371a6d0eb103596feaad3ae">4346d6de8371a6d0eb103596feaad3ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Manage Portfolio">4346d6de8371a6d0eb103596feaad3ae</sys_scope>
+            <sys_update_name>sys_ui_form_sections_5749da1a83b1a6d0eb103596feaad32e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-31 07:35:58</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
