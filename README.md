@@ -36,3 +36,17 @@ Contribute to the creation and maintenance of technical documentation.
 Utilize the ServiceNow Personal Developer Instance (PDI) for learning and experimentation.
 
 Basic understanding of ITIL processes and IT Service Management.
+
+
+
+
+Requirement Analysis: Analyzing business requirements and translating them into technical solutions within the ServiceNow platform.
+Platform Development: Developing and customizing ServiceNow applications, modules, and components using various development techniques such as scripting (JavaScript, GlideScript), UI Policies, UI Actions, Business Rules, and Workflows/Flows.
+Integration Development: Designing, developing, and maintaining integrations between ServiceNow and other enterprise systems using REST, SOAP, MID Server, and other integration methods.
+Customization and Configuration: Configuring and customizing ServiceNow modules and applications to meet business needs, including custom UI design, form configuration, and data model customization.
+ServiceNow Administration: Administering and maintaining ServiceNow instances, including instance setup, configuration, user management, security controls, and performance tuning.
+Platform Upgrades and Patching: Planning and executing ServiceNow platform upgrades, applying patches, and ensuring compatibility with existing customizations and integrations.
+Problem Resolution: Troubleshooting and resolving technical issues and incidents related to ServiceNow platform functionality, configuration, and integration.
+Continuous Improvement: Staying updated with ServiceNow platform updates, new features, and best practices to continuously improve development processes and deliverables.
+Collaboration and Communication: Collaborating with stakeholders, including business users, project managers, system administrators, and other developers, to gather requirements, provide updates, and ensure alignment with business objectives.
+Mentorship and Leadership: Providing guidance and mentorship to junior developers, sharing knowledge and best practices, and participating in knowledge-sharing activities within the team and the broader organization.
